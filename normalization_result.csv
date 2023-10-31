@@ -1,0 +1,5 @@
+,accuracy
+SVM,50.06
+SVM + normalization,50.01
+LDA,54.0
+LDA + normalization,54.15
